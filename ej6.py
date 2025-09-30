@@ -1,4 +1,3 @@
-horas = float(input("Número de horas trabajadas: "))
-coste = float(input("Coste por hora: "))
-paga = horas * coste
-print("La paga que te corresponde es:", paga)
+n = float(input("Dime un numero positivo: "))
+suma = (n * (n + 1)) / 2
+print(f"La suma de los enteros es:"{suma})
